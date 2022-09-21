@@ -1,0 +1,20 @@
+#!/bin/bash
+# Shell Basics
+
+* Print the absolute path name of the current working directory
+* Display the content list of your current directory
+* Change the working directory to the user's home directory
+* Display current working directory in a long format
+* Display current directory contents, including hidden files (starting with .)
+* Display current directory contents (Long format, with user and group IDs displayed numerically and hidden files (starting with .))
+* Create directory named holberton in the /tmp/ directory
+* Move the file betty from /tmp/ to /tmp/holberton
+* Delete the file betty
+* Delete directory holberton that is in the /tmp directory
+* Change the working directory to previous one
+* List all files
+* Print file type
+* Create a symbolic link to /bin/ls
+* Copy HTML files
+
++++++++++++++++++++++++
