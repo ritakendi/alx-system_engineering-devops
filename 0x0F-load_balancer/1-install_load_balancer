@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Install haproxy and config 2 server
+# Install haproxy and configure 2 server
 apt-get update
 apt-get -y install haproxy=1.6.\*
 echo "ENABLED=1" >> /etc/default/haproxy
