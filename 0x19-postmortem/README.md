@@ -26,4 +26,3 @@ Patch involved a simple fix on the typo, removing the trailing p.
 
 Prevention
 This outage was not a web server error, but an application error. To prevent such outages moving forward, please keep the following in mind.
-
